@@ -5,9 +5,7 @@ output:
     keep_md: TRUE
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 Keeping the intermediate md file is useful because GitHub treats it like an HTML file and gives you a pseudo-webpage, which can be useful in saving you a lot of work.
 
